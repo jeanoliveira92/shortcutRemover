@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1491579028 source:d:\pendrive\removevirus.c
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1491575506 source:d:\pendrive\resource.rc
+
